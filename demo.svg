@@ -1,0 +1,385 @@
+<svg width="1440" height="780" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1440 780">
+<rect width="1440" height="780" x="0" y="0" fill="none"></rect>
+<path d="M20 0C74.4444 0 74.4444 16.1691 128.8889 16.1691L128.8889 687.89C74.4444 687.89 74.4444 671.7209 20 671.7209Z" transform="translate(20 5)" fill="url(#zr0-g0)" fill-opacity="0.2" class="zr0-cls-0"></path>
+<path d="M20 691.3023C74.4444 691.3023 74.4444 687.89 128.8889 687.89L128.8889 711.0528C74.4444 711.0528 74.4444 714.4651 20 714.4651Z" transform="translate(20 5)" fill="url(#zr0-g1)" fill-opacity="0.2" class="zr0-cls-1"></path>
+<path d="M20 671.7209C74.4444 671.7209 74.4444 719.0528 128.8889 719.0528L128.8889 730.6342C74.4444 730.6342 74.4444 683.3023 20 683.3023Z" transform="translate(20 5)" fill="url(#zr0-g2)" fill-opacity="0.2" class="zr0-cls-2"></path>
+<path d="M148.8889 664.7272C203.3333 664.7272 203.3333 700.3909 257.7778 700.3909L257.7778 729.3444C203.3333 729.3444 203.3333 693.6807 148.8889 693.6807Z" transform="translate(20 5)" fill="url(#zr0-g3)" fill-opacity="0.2" class="zr0-cls-3"></path>
+<path d="M148.8889 693.6807C203.3333 693.6807 203.3333 737.3444 257.7778 737.3444L257.7778 743.1351C203.3333 743.1351 203.3333 699.4714 148.8889 699.4714Z" transform="translate(20 5)" fill="url(#zr0-g4)" fill-opacity="0.2" class="zr0-cls-4"></path>
+<path d="M148.8889 16.1691C203.3333 16.1691 203.3333 43.8328 257.7778 43.8328L257.7778 692.3909C203.3333 692.3909 203.3333 664.7272 148.8889 664.7272Z" transform="translate(20 5)" fill="url(#zr0-g5)" fill-opacity="0.2" class="zr0-cls-5"></path>
+<path d="M277.7778 605.5305C332.2222 605.5305 332.2222 660.0351 386.6667 660.0351L386.6667 746.8956C332.2222 746.8956 332.2222 692.3909 277.7778 692.3909Z" transform="translate(20 5)" fill="url(#zr0-g6)" fill-opacity="0.2" class="zr0-cls-6"></path>
+<path d="M277.7778 43.8328C332.2222 43.8328 332.2222 90.3374 386.6667 90.3374L386.6667 652.0351C332.2222 652.0351 332.2222 605.5305 277.7778 605.5305Z" transform="translate(20 5)" fill="url(#zr0-g7)" fill-opacity="0.2" class="zr0-cls-7"></path>
+<path d="M406.6667 605.7095C461.1111 605.7095 461.1111 656.6193 515.5556 656.6193L515.5556 702.9449C461.1111 702.9449 461.1111 652.0351 406.6667 652.0351Z" transform="translate(20 5)" fill="url(#zr0-g8)" fill-opacity="0.2" class="zr0-cls-8"></path>
+<path d="M406.6667 90.3374C461.1111 90.3374 461.1111 133.2472 515.5556 133.2472L515.5556 648.6193C461.1111 648.6193 461.1111 605.7095 406.6667 605.7095Z" transform="translate(20 5)" fill="url(#zr0-g9)" fill-opacity="0.2" class="zr0-cls-9"></path>
+<path d="M535.5556 625.4565C590 625.4565 590 673.8091 644.4444 673.8091L644.4444 696.9719C590 696.9719 590 648.6193 535.5556 648.6193Z" transform="translate(20 5)" fill="url(#zr0-g10)" fill-opacity="0.2" class="zr0-cls-10"></path>
+<path d="M20 714.4651C332.2222 714.4651 332.2222 660.0184 644.4444 660.0184L644.4444 665.8091C332.2222 665.8091 332.2222 720.2558 20 720.2558Z" transform="translate(20 5)" fill="url(#zr0-g11)" fill-opacity="0.2" class="zr0-cls-11"></path>
+<path d="M535.5556 133.2472C590 133.2472 590 167.8091 644.4444 167.8091L644.4444 660.0184C590 660.0184 590 625.4565 535.5556 625.4565Z" transform="translate(20 5)" fill="url(#zr0-g12)" fill-opacity="0.2" class="zr0-cls-12"></path>
+<path d="M664.4444 167.8091C718.8889 167.8091 718.8889 192.2373 773.3333 192.2373L773.3333 684.4466C718.8889 684.4466 718.8889 660.0184 664.4444 660.0184Z" transform="translate(20 5)" fill="url(#zr0-g13)" fill-opacity="0.2" class="zr0-cls-13"></path>
+<path d="M664.4444 660.0184C718.8889 660.0184 718.8889 692.4466 773.3333 692.4466L773.3333 698.2373C718.8889 698.2373 718.8889 665.8091 664.4444 665.8091Z" transform="translate(20 5)" fill="url(#zr0-g14)" fill-opacity="0.2" class="zr0-cls-14"></path>
+<path d="M793.3333 580.214C847.7778 580.214 847.7778 648.5581 902.2222 648.5581L902.2222 741.2093C847.7778 741.2093 847.7778 672.8652 793.3333 672.8652Z" transform="translate(20 5)" fill="url(#zr0-g15)" fill-opacity="0.2" class="zr0-cls-15"></path>
+<path d="M793.3333 678.6559C847.7778 678.6559 847.7778 749.2093 902.2222 749.2093L902.2222 755C847.7778 755 847.7778 684.4466 793.3333 684.4466Z" transform="translate(20 5)" fill="url(#zr0-g16)" fill-opacity="0.2" class="zr0-cls-16"></path>
+<path d="M793.3333 672.8652C912.2222 672.8652 912.2222 672.6908 1031.1111 672.6908L1031.1111 678.4815C912.2222 678.4815 912.2222 678.6559 793.3333 678.6559Z" transform="translate(20 5)" fill="url(#zr0-g17)" fill-opacity="0.2" class="zr0-cls-17"></path>
+<path d="M793.3333 192.2373C847.7778 192.2373 847.7778 217.8372 902.2222 217.8372L902.2222 605.814C847.7778 605.814 847.7778 580.214 793.3333 580.214Z" transform="translate(20 5)" fill="url(#zr0-g18)" fill-opacity="0.2" class="zr0-cls-18"></path>
+<path d="M20 720.2558C461.1111 720.2558 461.1111 605.814 902.2222 605.814L902.2222 640.5581C461.1111 640.5581 461.1111 755 20 755Z" transform="translate(20 5)" fill="url(#zr0-g19)" fill-opacity="0.2" class="zr0-cls-19"></path>
+<path d="M922.2222 611.6047C976.6667 611.6047 976.6667 678.4815 1031.1111 678.4815L1031.1111 701.6442C976.6667 701.6442 976.6667 634.7674 922.2222 634.7674Z" transform="translate(20 5)" fill="url(#zr0-g20)" fill-opacity="0.2" class="zr0-cls-20"></path>
+<path d="M922.2222 217.8372C976.6667 217.8372 976.6667 270.9233 1031.1111 270.9233L1031.1111 664.6908C976.6667 664.6908 976.6667 611.6047 922.2222 611.6047Z" transform="translate(20 5)" fill="url(#zr0-g21)" fill-opacity="0.2" class="zr0-cls-21"></path>
+<path d="M922.2222 634.7674C976.6667 634.7674 976.6667 709.6442 1031.1111 709.6442L1031.1111 715.4349C976.6667 715.4349 976.6667 640.5581 922.2222 640.5581Z" transform="translate(20 5)" fill="url(#zr0-g22)" fill-opacity="0.2" class="zr0-cls-22"></path>
+<path d="M1051.1111 270.9233C1105.5556 270.9233 1105.5556 337.2326 1160 337.2326L1160 563.0698C1105.5556 563.0698 1105.5556 496.7605 1051.1111 496.7605Z" transform="translate(20 5)" fill="url(#zr0-g23)" fill-opacity="0.2" class="zr0-cls-23"></path>
+<path d="M1051.1111 653.1094C1105.5556 653.1094 1105.5556 743.4186 1160 743.4186L1160 755C1105.5556 755 1105.5556 664.6908 1051.1111 664.6908Z" transform="translate(20 5)" fill="url(#zr0-g24)" fill-opacity="0.2" class="zr0-cls-24"></path>
+<path d="M1051.1111 496.7605C1105.5556 496.7605 1105.5556 571.0698 1160 571.0698L1160 681.093C1105.5556 681.093 1105.5556 606.7838 1051.1111 606.7838Z" transform="translate(20 5)" fill="url(#zr0-g25)" fill-opacity="0.2" class="zr0-cls-25"></path>
+<path d="M1051.1111 606.7838C1105.5556 606.7838 1105.5556 689.093 1160 689.093L1160 735.4186C1105.5556 735.4186 1105.5556 653.1094 1051.1111 653.1094Z" transform="translate(20 5)" fill="url(#zr0-g26)" fill-opacity="0.2" class="zr0-cls-26"></path>
+<path d="M515.5556 656.6193l20 0l0 46.3256l-20 0Z" transform="translate(20 5)" fill="rgb(113,155,160)" class="zr0-cls-27"></path>
+<path d="M1160 571.0698l20 0l0 110.0233l-20 0Z" transform="translate(20 5)" fill="rgb(167,203,111)" class="zr0-cls-28"></path>
+<path d="M257.7778 43.8328l20 0l0 648.5581l-20 0Z" transform="translate(20 5)" fill="rgb(191,109,191)" class="zr0-cls-29"></path>
+<path d="M128.8889 719.0528l20 0l0 11.5814l-20 0Z" transform="translate(20 5)" fill="rgb(88,118,193)" class="zr0-cls-30"></path>
+<path d="M257.7778 737.3444l20 0l0 5.7907l-20 0Z" transform="translate(20 5)" fill="rgb(84,112,198)" class="zr0-cls-31"></path>
+<path d="M0 0l20 0l0 683.3023l-20 0Z" transform="translate(20 5)" fill="rgb(223,120,201)" class="zr0-cls-32"></path>
+<path d="M257.7778 700.3909l20 0l0 28.9535l-20 0Z" transform="translate(20 5)" fill="rgb(100,137,176)" class="zr0-cls-33"></path>
+<path d="M128.8889 16.1691l20 0l0 694.8837l-20 0Z" transform="translate(20 5)" fill="rgb(234,124,204)" class="zr0-cls-34"></path>
+<path d="M1160 337.2326l20 0l0 225.8372l-20 0Z" transform="translate(20 5)" fill="rgb(243,146,96)" class="zr0-cls-35"></path>
+<path d="M902.2222 648.5581l20 0l0 92.6512l-20 0Z" transform="translate(20 5)" fill="rgb(146,204,117)" class="zr0-cls-36"></path>
+<path d="M902.2222 217.8372l20 0l0 422.7209l-20 0Z" transform="translate(20 5)" fill="rgb(68,167,131)" class="zr0-cls-37"></path>
+<path d="M515.5556 133.2472l20 0l0 515.3721l-20 0Z" transform="translate(20 5)" fill="rgb(236,135,85)" class="zr0-cls-38"></path>
+<path d="M1031.1111 270.9233l20 0l0 393.7674l-20 0Z" transform="translate(20 5)" fill="rgb(87,177,168)" class="zr0-cls-39"></path>
+<path d="M0 691.3023l20 0l0 63.6977l-20 0Z" transform="translate(20 5)" fill="rgb(125,174,144)" class="zr0-cls-40"></path>
+<path d="M644.4444 673.8091l20 0l0 23.1628l-20 0Z" transform="translate(20 5)" fill="rgb(96,131,182)" class="zr0-cls-41"></path>
+<path d="M773.3333 692.4466l20 0l0 5.7907l-20 0Z" transform="translate(20 5)" fill="rgb(84,112,198)" class="zr0-cls-31"></path>
+<path d="M386.6667 90.3374l20 0l0 561.6977l-20 0Z" transform="translate(20 5)" fill="rgb(208,116,126)" class="zr0-cls-42"></path>
+<path d="M1160 689.093l20 0l0 46.3256l-20 0Z" transform="translate(20 5)" fill="rgb(113,155,160)" class="zr0-cls-27"></path>
+<path d="M902.2222 749.2093l20 0l0 5.7907l-20 0Z" transform="translate(20 5)" fill="rgb(84,112,198)" class="zr0-cls-31"></path>
+<path d="M1160 743.4186l20 0l0 11.5814l-20 0Z" transform="translate(20 5)" fill="rgb(88,118,193)" class="zr0-cls-30"></path>
+<path d="M1031.1111 709.6442l20 0l0 5.7907l-20 0Z" transform="translate(20 5)" fill="rgb(84,112,198)" class="zr0-cls-31"></path>
+<path d="M644.4444 167.8091l20 0l0 498l-20 0Z" transform="translate(20 5)" fill="rgb(197,141,91)" class="zr0-cls-43"></path>
+<path d="M386.6667 660.0351l20 0l0 86.8605l-20 0Z" transform="translate(20 5)" fill="rgb(141,199,122)" class="zr0-cls-44"></path>
+<path d="M1031.1111 672.6908l20 0l0 28.9535l-20 0Z" transform="translate(20 5)" fill="rgb(100,137,176)" class="zr0-cls-33"></path>
+<path d="M773.3333 192.2373l20 0l0 492.2093l-20 0Z" transform="translate(20 5)" fill="rgb(184,143,93)" class="zr0-cls-45"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,546.0667,688.6644)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">2019.01转出(8人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,1190.5111,634.9637)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">无工程师证-硕士毕业(19人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,288.2889,376.9941)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">大一下期(112人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,159.4,733.7258)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">2017.09转出(2人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,288.2889,749.1221)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">退学(1人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,30.5111,350.5334)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">17级学生(118人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,288.2889,723.75)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">2018.01转出(5人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,159.4,372.4932)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">大一上期(120人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,1190.5111,459.0334)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">工程师毕业-17级学生(39人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,932.7333,703.766)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">终止于本科+考研未通过(16人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,932.7333,438.08)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">研一(73人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,546.0667,399.8155)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">大二下期(89人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,1061.6222,476.6893)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">研二、研三(68人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,30.5111,732.0334)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">16级留级(11人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,674.9556,694.2728)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">2019.07转出(4人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,803.8444,704.2242)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">自杀未遂后休学(1人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,417.1778,380.0685)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">大二上期(97人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,1190.5111,721.1381)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">延毕(8人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,932.7333,760.9869)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">考研通过后放弃(1人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,1190.5111,758.0916)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">工程师毕业-16级留级(2人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,1061.6222,721.4219)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">自杀(1人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,674.9556,425.6914)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">大三(86人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,417.1778,712.3476)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">2018.07转出(15人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,1061.6222,696.0498)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">自费出国留学(5人)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Microsoft YaHei;font-weight:bold;" transform="matrix(0.966,-0.259,0.259,0.966,803.8444,447.2242)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">大四(85人)</text>
+<path d="M-117.2012 -5l234.4023 0l0 50l-234.4023 0Z" transform="translate(720 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" class="zr0-cls-46"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:Microsoft YaHei;font-weight:bold;" y="9" transform="translate(720 5)" fill="#464646">中欧学院2017级人数变化图</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Microsoft YaHei;" y="34" transform="translate(720 5)" fill="#6E7079">数据更新于：2024.07.02</text>
+<defs >
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g0">
+<stop offset="0%" stop-color="rgb(223,120,201)"></stop>
+<stop offset="100%" stop-color="rgb(234,124,204)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g1">
+<stop offset="0%" stop-color="rgb(125,174,144)"></stop>
+<stop offset="100%" stop-color="rgb(234,124,204)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g2">
+<stop offset="0%" stop-color="rgb(223,120,201)"></stop>
+<stop offset="100%" stop-color="rgb(88,118,193)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g3">
+<stop offset="0%" stop-color="rgb(234,124,204)"></stop>
+<stop offset="100%" stop-color="rgb(100,137,176)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g4">
+<stop offset="0%" stop-color="rgb(234,124,204)"></stop>
+<stop offset="100%" stop-color="rgb(84,112,198)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g5">
+<stop offset="0%" stop-color="rgb(234,124,204)"></stop>
+<stop offset="100%" stop-color="rgb(191,109,191)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g6">
+<stop offset="0%" stop-color="rgb(191,109,191)"></stop>
+<stop offset="100%" stop-color="rgb(141,199,122)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g7">
+<stop offset="0%" stop-color="rgb(191,109,191)"></stop>
+<stop offset="100%" stop-color="rgb(208,116,126)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g8">
+<stop offset="0%" stop-color="rgb(208,116,126)"></stop>
+<stop offset="100%" stop-color="rgb(113,155,160)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g9">
+<stop offset="0%" stop-color="rgb(208,116,126)"></stop>
+<stop offset="100%" stop-color="rgb(236,135,85)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g10">
+<stop offset="0%" stop-color="rgb(236,135,85)"></stop>
+<stop offset="100%" stop-color="rgb(96,131,182)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g11">
+<stop offset="0%" stop-color="rgb(125,174,144)"></stop>
+<stop offset="100%" stop-color="rgb(197,141,91)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g12">
+<stop offset="0%" stop-color="rgb(236,135,85)"></stop>
+<stop offset="100%" stop-color="rgb(197,141,91)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g13">
+<stop offset="0%" stop-color="rgb(197,141,91)"></stop>
+<stop offset="100%" stop-color="rgb(184,143,93)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g14">
+<stop offset="0%" stop-color="rgb(197,141,91)"></stop>
+<stop offset="100%" stop-color="rgb(84,112,198)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g15">
+<stop offset="0%" stop-color="rgb(184,143,93)"></stop>
+<stop offset="100%" stop-color="rgb(146,204,117)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g16">
+<stop offset="0%" stop-color="rgb(184,143,93)"></stop>
+<stop offset="100%" stop-color="rgb(84,112,198)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g17">
+<stop offset="0%" stop-color="rgb(184,143,93)"></stop>
+<stop offset="100%" stop-color="rgb(100,137,176)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g18">
+<stop offset="0%" stop-color="rgb(184,143,93)"></stop>
+<stop offset="100%" stop-color="rgb(68,167,131)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g19">
+<stop offset="0%" stop-color="rgb(125,174,144)"></stop>
+<stop offset="100%" stop-color="rgb(68,167,131)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g20">
+<stop offset="0%" stop-color="rgb(68,167,131)"></stop>
+<stop offset="100%" stop-color="rgb(100,137,176)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g21">
+<stop offset="0%" stop-color="rgb(68,167,131)"></stop>
+<stop offset="100%" stop-color="rgb(87,177,168)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g22">
+<stop offset="0%" stop-color="rgb(68,167,131)"></stop>
+<stop offset="100%" stop-color="rgb(84,112,198)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g23">
+<stop offset="0%" stop-color="rgb(87,177,168)"></stop>
+<stop offset="100%" stop-color="rgb(243,146,96)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g24">
+<stop offset="0%" stop-color="rgb(87,177,168)"></stop>
+<stop offset="100%" stop-color="rgb(88,118,193)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g25">
+<stop offset="0%" stop-color="rgb(87,177,168)"></stop>
+<stop offset="100%" stop-color="rgb(167,203,111)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="0" id="zr0-g26">
+<stop offset="0%" stop-color="rgb(87,177,168)"></stop>
+<stop offset="100%" stop-color="rgb(113,155,160)"></stop>
+</linearGradient>
+</defs>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-1:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-3:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-4:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-5:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-6:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-7:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-8:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-9:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-10:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-11:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-12:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-13:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-14:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-15:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-16:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-17:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-18:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-19:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-20:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-21:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-22:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-23:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-24:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-25:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-26:hover {
+cursor:pointer;
+fill:[object Object];
+}
+.zr0-cls-27:hover {
+cursor:pointer;
+fill:rgba(124,170,176,1);
+}
+.zr0-cls-28:hover {
+cursor:pointer;
+fill:rgba(183,223,122,1);
+}
+.zr0-cls-29:hover {
+cursor:pointer;
+fill:rgba(210,119,210,1);
+}
+.zr0-cls-30:hover {
+cursor:pointer;
+fill:rgba(96,129,212,1);
+}
+.zr0-cls-31:hover {
+cursor:pointer;
+fill:rgba(92,123,217,1);
+}
+.zr0-cls-32:hover {
+cursor:pointer;
+fill:rgba(245,132,221,1);
+}
+.zr0-cls-33:hover {
+cursor:pointer;
+fill:rgba(110,150,193,1);
+}
+.zr0-cls-34:hover {
+cursor:pointer;
+fill:rgba(255,136,224,1);
+}
+.zr0-cls-35:hover {
+cursor:pointer;
+fill:rgba(255,160,105,1);
+}
+.zr0-cls-36:hover {
+cursor:pointer;
+fill:rgba(160,224,128,1);
+}
+.zr0-cls-37:hover {
+cursor:pointer;
+fill:rgba(74,183,144,1);
+}
+.zr0-cls-38:hover {
+cursor:pointer;
+fill:rgba(255,148,93,1);
+}
+.zr0-cls-39:hover {
+cursor:pointer;
+fill:rgba(95,194,184,1);
+}
+.zr0-cls-40:hover {
+cursor:pointer;
+fill:rgba(137,191,158,1);
+}
+.zr0-cls-41:hover {
+cursor:pointer;
+fill:rgba(105,144,200,1);
+}
+.zr0-cls-42:hover {
+cursor:pointer;
+fill:rgba(228,127,138,1);
+}
+.zr0-cls-43:hover {
+cursor:pointer;
+fill:rgba(216,155,100,1);
+}
+.zr0-cls-44:hover {
+cursor:pointer;
+fill:rgba(155,218,134,1);
+}
+.zr0-cls-45:hover {
+cursor:pointer;
+fill:rgba(202,157,102,1);
+}
+.zr0-cls-46:hover {
+pointer-events:none;
+}
+
+]]>
+
+</style>
+</svg>
